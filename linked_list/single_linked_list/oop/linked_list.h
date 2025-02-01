@@ -32,7 +32,7 @@ public:
 
     void print_list()
     {
-        if (!head) cout << "No node exists.\n";
+        if (!head) cout << "The list is empty.\n";
 
         // cout << "List: ";
         Node* curr_node = head;
