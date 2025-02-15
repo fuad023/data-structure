@@ -3,7 +3,7 @@
 
 /*
  * for better understanding of two distinct numbers (if they are multi-digit)
- * each number is separated with ' ' (space character)
+ * each number is separated with ' ' (space character) [only for postfix]
  */
 
 class Operation {
