@@ -6,7 +6,7 @@ class Graph
 protected:
     size_t node_no, edge_no;
     vector<int> Node_Vec[100];
-    vector<int>Node_Cost[100];
+    vector<int> Node_Cost[100];
 
 public:
     virtual void input() {}
